@@ -12,6 +12,10 @@ product image and automatically generates marketing and SEO content.
 
 
 
+## Screen recorder
+
+https://www.awesomescreenshot.com/video/56560537?key=f582165721aaaf8c001fc5f772f3ee44
+
 
 
 
