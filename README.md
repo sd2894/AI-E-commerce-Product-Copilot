@@ -17,6 +17,13 @@ product image and automatically generates marketing and SEO content.
 https://www.awesomescreenshot.com/video/56560537?key=f582165721aaaf8c001fc5f772f3ee44
 
 
+[AI E-commerce Product Copilot.webm](https://github.com/user-attachments/assets/89fc59ab-70c6-4cd8-b192-56c6c9304046)
+
+
+
+
+
+
 
 
 
