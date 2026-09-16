@@ -22,6 +22,11 @@ product image and automatically generates marketing and SEO content.
 
 
 
+
+
+
+
+
 ## ✨ Features
 
 - Upload a product image
