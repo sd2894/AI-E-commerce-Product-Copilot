@@ -3,13 +3,10 @@
 A multimodal AI-powered e-commerce assistant that analyzes a
 product image and automatically generates marketing and SEO content.
 
-## 🚀 Live Demo
-
-[Try the Live Demo](YOUR_STREAMLIT_URL)
-
 ## 📸 Demo
+<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/d512f7a7-3872-4ddd-bd26-265be55bb1a4" />
 
-![AI Product Generator](screenshots/generated-content.png)
+
 
 ## ✨ Features
 
